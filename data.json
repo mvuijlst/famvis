@@ -1,0 +1,206 @@
+{
+  "people": [
+    {
+      "ID": 1,
+      "First_names": "Marc Maurice Régine",
+      "Lastname": "Vuijlsteke",
+      "Gender": "male",
+      "father_ID": 7,
+      "mother_ID": 8
+    },
+    {
+      "ID": 2,
+      "First_names": "Mia",
+      "Lastname": "Waegenaer",
+      "Gender": "female",
+      "father_ID": 5,
+      "mother_ID": 6
+    },
+    {
+      "ID": 3,
+      "First_names": "Michel",
+      "Lastname": "Vuijlsteke",
+      "Gender": "male",
+      "father_ID": 1,
+      "mother_ID": 2
+    },
+    {
+      "ID": 4,
+      "First_names": "Philippe Didier Jan",
+      "Lastname": "Vuijlsteke",
+      "Gender": "male",
+      "father_ID": 1,
+      "mother_ID": 2
+    },
+    {
+      "ID": 5,
+      "First_names": "Arthur Firmin Louis",
+      "Lastname": "Waegenaer",
+      "Gender": "male",
+      "father_ID": null,
+      "mother_ID": null
+    },
+    {
+      "ID": 6,
+      "First_names": "Germana Michaëlla",
+      "Lastname": "Sierens",
+      "Gender": "female",
+      "father_ID": null,
+      "mother_ID": null
+    },
+    {
+      "ID": 7,
+      "First_names": "Arthur Oscar Marie Zelie",
+      "Lastname": "Vuijlsteke",
+      "Gender": "male",
+      "father_ID": null,
+      "mother_ID": null
+    },
+    {
+      "ID": 8,
+      "First_names": "Estera",
+      "Lastname": "Jarząbek",
+      "Gender": "female",
+      "father_ID": null,
+      "mother_ID": null
+    },
+    {
+      "ID": 9,
+      "First_names": "Zelie Marie Anna",
+      "Lastname": "Vuijlsteke",
+      "Gender": "female",
+      "father_ID": 3,
+      "mother_ID": null
+    },
+    {
+      "ID": 10,
+      "First_names": "Skye",
+      "Lastname": "Vuijlsteke",
+      "Gender": "male",
+      "father_ID": 3,
+      "mother_ID": null
+    },
+    {
+      "ID": 11,
+      "First_names": "Jan Philippe David",
+      "Lastname": "Vuijlsteke",
+      "Gender": "male",
+      "father_ID": 3,
+      "mother_ID": null
+    },
+    {
+      "ID": 12,
+      "First_names": "Anna Sofia Ester",
+      "Lastname": "Vuijlsteke",
+      "Gender": "fmale",
+      "father_ID": 3,
+      "mother_ID": null
+    }
+  ],
+  "events": [
+    {
+      "person_ID": 1,
+      "type": "birth",
+      "date": "1947-05-09",
+      "place": "Gent, Oost-Vlaanderen, België"
+    },
+    {
+      "person_ID": 1,
+      "type": "death",
+      "date": "2009-07-11",
+      "place": "De Pintelaan, Gent, Oost-Vlaanderen, België"
+    },
+    {
+      "person_ID": 1,
+      "type": "marriage",
+      "date": "1970-01-30",
+      "place": "Gent, Oost-Vlaanderen, België",
+      "partner_ID": 2
+    },
+    {
+      "person_ID": 2,
+      "type": "birth",
+      "date": "1947-04-01",
+      "place": "Groenebriel, Gent, Oost-Vlaanderen, België"
+    },
+    {
+      "person_ID": 3,
+      "type": "birth",
+      "date": "1970-08-27",
+      "place": "Groenebriel, Gent, Oost-Vlaanderen, België"
+    },
+    {
+      "person_ID": 4,
+      "type": "birth",
+      "date": "1972-05-17",
+      "place": "Gent, Oost-Vlaanderen, België"
+    },
+    {
+      "person_ID": 4,
+      "type": "death",
+      "date": "2013-01-16",
+      "place": "De Pintelaan, Gent, Oost-Vlaanderen, België"
+    },
+    {
+      "person_ID": 5,
+      "type": "birth",
+      "date": "1907-04-11",
+      "place": "Wetteren, Oost-Vlaanderen, België"
+    },
+    {
+      "person_ID": 5,
+      "type": "residence",
+      "date": "1996-01-01",
+      "place": "De Lichtervelde, Eke-Nazareth, Oost-Vlaanderen, België"
+    },
+    {
+      "person_ID": 6,
+      "type": "death",
+      "date": "1991-08-18",
+      "place": "Sint-Denijs-Westrem, Oost-Vlaanderen, België"
+    },
+    {
+      "person_ID": 7,
+      "type": "marriage",
+      "date": "1946-01-26",
+      "place": "Anderlecht, Brussel, België",
+      "partner_ID": 8
+    },
+    {
+      "person_ID": 8,
+      "type": "immmigration",
+      "date": "1938",
+      "place": "Antwerpen, Antwerpen, België"
+    },
+    {
+      "person_ID": 8,
+      "type": "school",
+      "date": "1920",
+      "place": "Kłobuck, Polen"
+    },
+    {
+      "person_ID": 9,
+      "type": "birth",
+      "date": "1999",
+      "place": "Groenebriel, Gent, Oost-Vlaanderen, België"
+    },
+    {
+      "person_ID": 10,
+      "type": "birth",
+      "date": "2001",
+      "place": "Groenebriel, Gent, Oost-Vlaanderen, België"
+    },
+    {
+      "person_ID": 11,
+      "type": "birth",
+      "date": "2004",
+      "place": "Groenebriel, Gent, Oost-Vlaanderen, België"
+    },
+    {
+      "person_ID": 12,
+      "type": "birth",
+      "date": "2006",
+      "place": "Groenebriel, Gent, Oost-Vlaanderen, België"
+    }
+  ]
+}
